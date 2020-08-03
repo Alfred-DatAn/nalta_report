@@ -103,7 +103,8 @@ function init(){
     },
     // Add canvas label styling
     Label: {
-      type: labelType // "Native" or "HTML"
+      type: labelType, // "Native" or "HTML"
+      size: 12 
     },
     // Add the name of the node in the corresponding label
     // This method is called once, on label creation and only for DOM and not

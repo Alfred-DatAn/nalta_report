@@ -60,7 +60,7 @@
 }
 
 .tip-title {
-  font-size: 11px;
+  font-size: 13px;
   text-align:center;
   margin-bottom:2px;
 }
@@ -76,5 +76,6 @@
 #infovis {
   width:800px;
   height: 600px;
+  font-size: 25px;
 }
 
